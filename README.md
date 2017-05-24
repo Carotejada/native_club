@@ -1,6 +1,6 @@
-# [ Project Title ]
+# [ Maker Spaces para pequeñas industrias ]
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Este proyecto tiene como meta poner al alcance de pequeñas industrias de países en desarrollo como Colombia, conocimiento, herramientas y buenas prácticas.  
 
 [ If you have one, add your logo or an image here ]
 
