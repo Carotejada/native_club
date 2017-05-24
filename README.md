@@ -1,10 +1,22 @@
 # [ Maker Spaces para pequeñas industrias ]
 
-Este proyecto tiene como meta poner al alcance de pequeñas industrias de países en desarrollo como Colombia, conocimiento, herramientas y buenas prácticas.  
+##Objetivo
+Este proyecto pretende poner al alcance de las pequeñas y medianas industrias de manufactura conocimiento y herramientas de alto impacto y bajo costo utilizadas por empresas de talla mundial tales como Toyota, a través de una plataforma de colaborción abierta.
 
-[ If you have one, add your logo or an image here ]
+Un ejemplo de estas herramienas es el Karakuri - Kaizen. El Karakuri es un tradicional arte japonés que usa pequeños dispositivos y artilugios que pueden usarse en la vida cotidiana con el fin de brindar un beneficio a las personas. 
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+Este concepto adaptado a la industria da origen al "Karakuri Kaizen", en el cual se elaboran dispositivos que mejoran el funcionamiento de una planta de producción, ayudan a mejorar la calidad y las condiciones de trabajo de los operarios.
+
+Lo ms importante del proyecto es que los karakuris pueden ser desarrolladas por las mismas personas en espacios colaborativos de creación, al interior de las empresas.  
+
+##Alcance
+El proyecto está pensado, en principio, para beneficiar a las pequeñas y medianas empresas de manufactura, de países en Desarrollo como Colombia, auqnue al ser  
+
+Estas empresas tienen recursos restringidos en términos de tiempo, presupuesto y talento humano, y por tanto  tienen una desventaja competitiva frente a grandes empresas, las cuales, incluso cuentan con equipos de I+D+I. 
+
+¿Cómo competir frente a ellos? Si bien en la relación de competencia existen diversas variables que exceden el alcance de este proyecto, existen herramientas de bajo costo como los Karakuris y los pokayokes, las cuales pueden tener un impacto alto en su productividad.
+
+
 
 ## Getting Started
 
