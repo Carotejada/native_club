@@ -7,6 +7,8 @@ Un ejemplo de estas herramienas es el Karakuri - Kaizen. El Karakuri es un tradi
 
 ![Imgur](http://imgur.com/a/sqo1G)
 
+![Imgur](http://i.imgur.com/IO73B1J.png)
+
 Este concepto adaptado a la industria da origen al "Karakuri Kaizen", en el cual se elaboran dispositivos que mejoran el funcionamiento de una planta de producción, ayudan a mejorar la calidad y las condiciones de trabajo de los operarios.
 
 Lo ms importante del proyecto es que los karakuris pueden ser desarrolladas por las mismas personas en espacios colaborativos de creación, al interior de las empresas.  
