@@ -1,4 +1,4 @@
-# Contributing to [Project]
+# Contribuir al proyecto
 
 Gracias por tu interés en este proyecto, que tiene como propóstico crear un espacio colaborativo en el que compartamos conocimiento y lo pongamos a dsiposición de pequeñas y medianas indistrias. 
 
