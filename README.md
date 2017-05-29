@@ -1,4 +1,4 @@
-# [ Maker Spaces para pequeñas industrias ]
+# Maker Spaces para pequeñas industrias
 
 ## Objetivo
 Este proyecto pretende poner al alcance de las pequeñas y medianas industrias de manufactura, a través de una plataforma de colaborción abierta, conocimiento y herramientas de alto impacto y bajo costo utilizadas por empresas de talla mundial, así como las experiencias de éxito de Maker Spaces y talleres Kaizen.
