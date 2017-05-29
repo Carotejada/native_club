@@ -6,12 +6,6 @@ Estamos aboertos a recibir aportes de diferentes disciplinas, que recojan experi
 
 A continuación presentamos algunas guías de participación, que orientan la colaboración en Github. Como su nombre lo indica, son guías, no reglas o camisas de fuerza. Su único propósito es hacer que puedas contribuir de manera fácil y fluida. 
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
-
 ## Guía de participación
 
 Este proyecto se adihere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con tu participación aceptas honrar este código. Si identificas algún comprtamiento que lo infrinja, repórtalo a caro.tejada.alvarez@gmail.com  
