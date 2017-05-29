@@ -29,5 +29,5 @@ Si identificas errores de redacción, omisiones, vínculos que no funcionen, o c
  
 ## Contacto
  
-Puedes contactarte con nosotros a través de Github, o en el correo carolina.causayefecto.com.co
+Puedes contactarte con nosotros a través de Github, o en el correo carolina.tejada@causayefecto.com.co
 
