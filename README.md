@@ -5,9 +5,7 @@ Este proyecto pretende poner al alcance de las pequeñas y medianas industrias d
 
 Un ejemplo de estas herramienas es el Karakuri - Kaizen. El Karakuri es un tradicional arte japonés que usa pequeños dispositivos y artilugios que pueden usarse en la vida cotidiana con el fin de brindar un beneficio a las personas. 
 
-![Imgur](http://imgur.com/a/sqo1G)
-
-![Imgur](http://i.imgur.com/IO73B1J.png)
+![Imgur](http://i.imgur.com/Qjc9YGh.jpg)
 
 Este concepto adaptado a la industria da origen al "Karakuri Kaizen", en el cual se elaboran dispositivos que mejoran el funcionamiento de una planta de producción, ayudan a mejorar la calidad y las condiciones de trabajo de los operarios.
 
