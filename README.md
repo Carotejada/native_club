@@ -33,5 +33,5 @@ Este concepto adaptado a la industria da origen al "Karakuri Kaizen", en el cual
 
 La principal forma de contribuir a este proyecto, es compartiendo experiencias y casos de éxito de Maker Spaces, talleres Kaizen, sobre herramientas, tecnologías y buenas prácticas que puedan ser utilizadas por pequeñas y medianas empresas. 
 
-Para entender mejor cómo puedes contribuir ve a [CONTRIBUTING.md](CONTRIBUIR.md).
+Para entender mejor cómo puedes contribuir ve a [CONTRIBUIR.md](CONTRIBUIR.md).
 
