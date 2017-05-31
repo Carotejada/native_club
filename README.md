@@ -19,5 +19,5 @@ Estas empresas tienen recursos restringidos en términos de tiempo, presupuesto 
 
 La principal forma de contribuir a este proyecto, es compartiendo experiencias y casos de éxito de Maker Spaces, talleres Kaizen, sobre herramientas, tecnologías de bajo (o cero) costo y buenas prácticas que puedan ser adaptadas por pequeñas y medianas empresas. 
 
-Para entender mejor cómo puedes contribuir ve a [CONTRIBUIR.md](CONTRIBUIR.md).
+Para entender mejor cómo puedes contribuir [haz click aquí](CONTRIBUIR.md).
 
