@@ -8,11 +8,10 @@ Gracias por tu interés en este proyecto!  Estamos abiertos a recibir aportes de
  
 Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con tu participación aceptas honrar este código. Si identificas algún comportamiento que lo infrinja, repórtalo a caro.tejada.alvarez@gmail.com  
  
-## ¿En qué estamos trabajando?
- 
-Desde [Causa y Efecto](https://www.causayefecto.com.co/), estamos liderando un proyecto de colaboración abierta que beneficie a pequeñas y medianas industrias, la cuales se enfrentan a compañías cada vez más competitivas, sin los recursos económicos, humanos, y técnicos necesarios.
- 
+## Hitos del proyecto
+
 Los hitos del proyecto, que tiene un alcance modesto al principio, son:
+
 1. Recopilar experiencias de Maker Spaces, grupos Kaizen y expertos mundiales, sobre el uso de herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
 2. Sistematizar estas experiencias, y convertirlas en material pedagógico disponible para se usadas por pequeñas y medianas empresas.
 3. Crear un espacio virtual (plataforma por definir) de colaboración abierta para que personas de todo el mundo contribuyan a enriquecer esta red de conocimiento abierta.
