@@ -10,8 +10,6 @@ Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con t
  
 ## Hitos del proyecto
 
-Los hitos del proyecto, que tiene un alcance modesto al principio, son:
-
 1. Recopilar experiencias de Maker Spaces, grupos Kaizen y expertos mundiales, sobre el uso de herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
 2. Sistematizar estas experiencias, y convertirlas en material pedagógico disponible para se usadas por pequeñas y medianas empresas.
 3. Crear un espacio virtual (plataforma por definir) de colaboración abierta para que personas de todo el mundo contribuyan a enriquecer esta red de conocimiento abierta.
