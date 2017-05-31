@@ -1,4 +1,6 @@
 # Contribuir al proyecto
+
+![Imgur](http://i.imgur.com/nCgiS0k.png)
  
 Gracias por tu interés en este proyecto!  Estamos abiertos a recibir aportes de diferentes disciplinas, que recojan experiencias de diferentes partes del mundo.
   
