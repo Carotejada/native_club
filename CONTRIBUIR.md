@@ -19,6 +19,8 @@ Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con t
 Hacer contribuciones a este proyecto es súper fácil!!!
  
 Ve a los [ISSUES](https://github.com/Carotejada/Maker-Spaces-para-pequenas-industrias/issues) y haz click sobre el que prefieras. Comenta compartiendo tu experiencia, materiales de referencia, estudios de caso, bibliografa disponible, fotografías y videos. Todo el material es bienvenido!
+
+Ahora, si Github no es lo tuyo, y bloquea tu inspiración, puedes compartir tus aportes en [este documento](https://docs.google.com/a/causayefecto.com.co/document/d/14YVffYBsz27jOmLFuxqHoATSX5OdwwWBXVCeaRSaY_U/edit?usp=sharing).
  
 ## ¿Cómo reportar errores?
  
