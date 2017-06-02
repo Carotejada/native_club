@@ -10,7 +10,7 @@ Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con t
  
 ## Hitos del proyecto
 
-1. Recopilar experiencias de Maker Spaces, grupos Kaizen y expertos mundiales, sobre el uso de herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
+1. Recopilar experiencias, conocimiento, casos de éxito, lecciones aprendidas, herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
 2. Sistematizar estas experiencias, y convertirlas en material pedagógico disponible para se usadas por pequeñas y medianas empresas.
 3. Crear un espacio virtual (plataforma por definir) de colaboración abierta para que personas de todo el mundo contribuyan a enriquecer esta red de conocimiento abierta.
  
@@ -24,7 +24,7 @@ Ahora, si Github no es lo tuyo, y bloquea tu inspiración, puedes compartir tus 
  
 ## ¿Cómo reportar errores?
  
-Si identificas errores de redacción, omisiones, vínculos que no funcionen, o contribuciones que se salgan de la temática, repórtalos en el issue tracker [LINK TO ISSUE TRACKER]!
+Si identificas errores de redacción, omisiones, vínculos que no funcionen, o contribuciones que se salgan de la temática, repórtalos en el issue.
  
 ## Contacto
  
