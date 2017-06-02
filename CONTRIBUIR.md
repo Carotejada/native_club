@@ -4,16 +4,6 @@
  
 Gracias por tu interés en este proyecto!  Estamos abiertos a recibir aportes de diferentes disciplinas, que recojan experiencias de diferentes partes del mundo.
   
-## Guía de participación
- 
-Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con tu participación aceptas honrar este código. Si identificas algún comportamiento que lo infrinja, repórtalo a caro.tejada.alvarez@gmail.com  
- 
-## Hitos del proyecto
-
-1. Recopilar experiencias, conocimiento, casos de éxito, lecciones aprendidas, herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
-2. Sistematizar estas experiencias, y convertirlas en material pedagógico disponible para se usadas por pequeñas y medianas empresas.
-3. Crear un espacio virtual (plataforma por definir) de colaboración abierta para que personas de todo el mundo contribuyan a enriquecer esta red de conocimiento abierta.
- 
 ## ¿Cómo hacer contribuciones?
  
 Hacer contribuciones a este proyecto es súper fácil!!!
@@ -23,6 +13,16 @@ Ve a los [ISSUES](https://github.com/Carotejada/Caja-de-herramientas-para-empren
 Este  proyecto se basa en la metodología Lean startup. Las ideas y contribuciones se comparten en una etapa temprana, y se van evolucionando y madurando  a lo largo del proyecto. Por esta razón este es un documento vivo, que será modificado, adaptado, y mejorado a lo largo del tiempo.  
 
 Ahora, si Github no es lo tuyo, y bloquea tu inspiración, puedes compartir tus aportes en [este documento](https://docs.google.com/a/causayefecto.com.co/document/d/14YVffYBsz27jOmLFuxqHoATSX5OdwwWBXVCeaRSaY_U/edit?usp=sharing).
+ 
+## Hitos del proyecto
+
+1. Recopilar experiencias, conocimiento, casos de éxito, lecciones aprendidas, herramientas y tecnologías de bajo costo, que sean fácilmente adaptables por pequeñas empresas. 
+2. Sistematizar estas experiencias, y convertirlas en material pedagógico disponible para se usadas por pequeñas y medianas empresas.
+3. Crear un espacio virtual (plataforma por definir) de colaboración abierta para que personas de todo el mundo contribuyan a enriquecer esta red de conocimiento abierta.
+
+## Guía de participación
+ 
+Este proyecto se adhiere al [código de conducta](CÓDIGO_DE_CONDUCTA.md). Con tu participación aceptas honrar este código. Si identificas algún comportamiento que lo infrinja, repórtalo a caro.tejada.alvarez@gmail.com  
  
 ## ¿Cómo reportar errores?
  
