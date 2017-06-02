@@ -32,6 +32,8 @@ Para entender mejor cómo puedes contribuir [haz click aquí](CONTRIBUIR.md).
 
 __________________________________________________________
 
+# Toolkit for entrepreneurs
+
 ## Objective
 
 This project aims to provide a platform and a methodology to share experiences, knowledge and tools of high impact and low cost, with entrepreneurs, small and medium-sized industries in developing countries such as Colombia.
