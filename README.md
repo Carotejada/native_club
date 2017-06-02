@@ -32,5 +32,26 @@ Para entender mejor cómo puedes contribuir [haz click aquí](CONTRIBUIR.md).
 
 __________________________________________________________
 
+Objective
 
+This project aims to provide a platform and a methodology to share experiences, knowledge and tools of high impact and low cost, with entrepreneurs, small and medium-sized industries in developing countries such as Colombia.
+
+We seek to collect contributions from experts and amateurs, from different disciplines, around world. This information will be systematized and shared in an open- collaborative platform which will be defined as part of this project.
+
+Justification
+
+Entrepreneurs, small and medium-sized enterprises generally have limited resources in terms of time, budget and human talent, and therefore have a competitive disadvantage vis-à-vis large companies.
+
+In Colombia only 25% of the ventures survive more than four years. This is for several reasons. On the one hand, they have very little access to financing - 82.7% of businesses start with their own capital - on the other hand, they do not have the knowledge and suitable staff in certain specialized areas:
+
+"Execution problems rank first (17.1%), followed by poor planning (14.77%), and then lack of quality." The second most important factor for failure is poor organization within the company. Indicators that guide the strategy of companies (14.5%). "Institute of Failure.
+Relevance
+
+There is a very wide knowledge network of experts from different disciplines in the world (individuals and organizations), who are willing to share their knowledge with these entrepreneurs, but do not find enough means to do so.
+
+This project seeks to land these good intentions and articulate interinstitutional efforts, learning from the principles of the "Working Open culture”. While this is not a specific software development project, it uses technology as a platform to fuel collaboration and networking in a sector that has remained somewhat outside the "Open culture”.
+
+Traditionally, the private sector has been characterized by low levels of cooperation, it  privileges closed practices, ignoring that a strong industrial ecosystem results in benefits for the entire system, and this is achieved, precisely, by enhancing the mechanisms of collaboration.
+
+We know we have a lot to learn from the open collaboration movement, rooted in the world of  "Open Source".
 
