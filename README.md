@@ -32,13 +32,13 @@ Para entender mejor cómo puedes contribuir [haz click aquí](CONTRIBUIR.md).
 
 __________________________________________________________
 
-Objective
+## Objective
 
 This project aims to provide a platform and a methodology to share experiences, knowledge and tools of high impact and low cost, with entrepreneurs, small and medium-sized industries in developing countries such as Colombia.
 
 We seek to collect contributions from experts and amateurs, from different disciplines, around world. This information will be systematized and shared in an open- collaborative platform which will be defined as part of this project.
 
-Justification
+## Justification
 
 Entrepreneurs, small and medium-sized enterprises generally have limited resources in terms of time, budget and human talent, and therefore have a competitive disadvantage vis-à-vis large companies.
 
@@ -54,4 +54,10 @@ This project seeks to land these good intentions and articulate interinstitution
 Traditionally, the private sector has been characterized by low levels of cooperation, it  privileges closed practices, ignoring that a strong industrial ecosystem results in benefits for the entire system, and this is achieved, precisely, by enhancing the mechanisms of collaboration.
 
 We know we have a lot to learn from the open collaboration movement, rooted in the world of  "Open Source".
+
+## How to contribute
+
+The main way to contribute to this project is to share experiences, success stories, tools, low (or zero) cost technologies and good practices that can be adapted by entrepreneurs, small and medium enterprises.
+
+To better understand how you can contribute [click here](CONTRIBUIR.md).
 
