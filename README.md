@@ -12,7 +12,7 @@ Emprendedores, pequeñas y medianas empresas, generalmente cuentan con recursos 
 
 En Colombia sólo 25% de los emprendimientos sobreviven más de cuatro años. Esto obedece a diversas razones. Por un lado, tienen muy poco acceso a financiamiento -82.7% de los negocios empiezan con capital propio, de familiares y amigos- y por otra no cuentan con el conocimiento y personal idóneo en ciertas áreas especializadas:
 
-"El segundo factor más importante para el fracaso es la mala organización dentro de la empresa. La inexperiencia cuesta cara. Los problemas de ejecución ocupan el primer lugar (17.1%), seguida de una planeación deficiente (14.77%) y después la falta de indicadores que guíen la estrategia de las empresas (14.5%)".[Instituto del Fracaso](http://thefailureinstitute.com/colombia-research/).
+"El segundo factor más importante para el fracaso es la mala organización dentro de la empresa. La inexperiencia cuesta cara. Los problemas de ejecución ocupan el primer lugar (17.1%), seguida de una planeación deficiente (14.77%) y después la falta de indicadores que guíen la estrategia de las empresas (14.5%)." [Instituto del Fracaso](http://thefailureinstitute.com/colombia-research/).
 
 ## Pertinencia
 
@@ -46,8 +46,9 @@ Entrepreneurs, small and medium-sized enterprises generally have limited resourc
 
 In Colombia only 25% of the ventures survive more than four years. This is for several reasons. On the one hand, they have very little access to financing - 82.7% of businesses start with their own capital - on the other hand, they do not have the knowledge and suitable staff in certain specialized areas:
 
-"Execution problems rank first (17.1%), followed by poor planning (14.77%), and then lack of quality." The second most important factor for failure is poor organization within the company. Indicators that guide the strategy of companies (14.5%). "Institute of Failure.
-Relevance
+"Execution problems rank first (17.1%), followed by poor planning (14.77%), and then lack of quality." The second most important factor for failure is poor organization within the company. Indicators that guide the strategy of companies (14.5%)." [The Failure Institute](http://thefailureinstitute.com/colombia-research/).
+
+## Relevance
 
 There is a very wide knowledge network of experts from different disciplines in the world (individuals and organizations), who are willing to share their knowledge with these entrepreneurs, but do not find enough means to do so.
 
