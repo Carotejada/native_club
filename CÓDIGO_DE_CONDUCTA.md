@@ -22,17 +22,5 @@ Damos la bienvenida a las contribuciones de todos, siempre y cuando interactúen
 
 Las actividades articuladas conn Mozilla deben ser inclusivas y deben apoyar tal diversidad.
 
-## ¿Cómo plantear problemas en #mozsprint?
-
-Si crees que estás hay prácticas en #mozsprint que no cumplen con las políticas anteriores, o si sientes que estás siendo acosado de alguna manera, comunícate de inmediato con Zannah Marsh.
-
-Los organizadores de #mozsprint se reservan el derecho de negar la admisión a cualquiera que viole estas políticas, y/o tomar medidas adicionales incluyendo la expulsión del evento.
-
-Correo electrónico: askopenleadership@mozillafoundation.org
-
-## Colaboración abierta
-
-Debido a que trabajar abiertamente es uno de nuestros valores fundamentales, la planificación del programa #mozsprint se realiza en Github [consulte nuestro repo aquí](https://github.com/mozilla/global-sprint). Esperamos que los participantes se beneficien de esta cultura de transparencia y colaboración durante el Festival, y que sigan trabajando con un ethos abierto en sus proyectos después de #mozsprint. Obtén más información sobre [cómo trabajamos en Mozilla](https://wiki.mozilla.org/Working_open).
-
 
 <!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
