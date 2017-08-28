@@ -1,66 +1,61 @@
-# Caja de herramientas para emprendedores / Toolkit for entrepreneurs 
+# Mozilla Native Club
 
-![Imgur](http://i.imgur.com/7ZEyrIb.jpg)
+![Imgur](http://i.imgur.com/IWabLmF.jpg)
 
-## Objetivo
-Este proyecto pretende poner al alcance de emprendedores, pequeñas y medianas industrias de países en desarrollo como Colombia,  experiencias, conocimiento y herramientas de alto impacto y bajo costo, utilizados por empresas y organizaciones de talla mundial. 
+## The web can speak in indigenous languages!
 
-En principio buscamos recopilar contribuciones de expertos y aficionados, de diferentes disciplinas, ubicados en cualquier parte del mundo. Esta información será sistematizada y compartida abiertamente en una plataforma colaborativa la cual se definirá como parte del proyecto.
+# 1. DESCRIPTION
+The Internet has revolutionized the world generating a significant change in the way people communicate, create, interact. 
+ 
+However, the educational system in Latin America has not integrated into its formal educational system a web literacy model to teach key digital skills, and access to digital skills training is even worse for indigenous communities.
 
-## Justificación
-Emprendedores, pequeñas y medianas empresas, generalmente cuentan con recursos restringidos en términos de tiempo, presupuesto y talento humano, y por tanto  tienen una desventaja competitiva frente a grandes empresas. 
+* “250 millions of latin americans remain unconnected.
+* rural areas lack of an infrastructure to access the Internet.
+* the majority of the people who are disconnected think that access is whether too expensive or/and useless.
+* language skills are a major barrier to adoption
+* only one of every three people use Internet”
 
-En Colombia sólo 25% de los emprendimientos sobreviven más de cuatro años. Esto obedece a diversas razones. Por un lado, tienen muy poco acceso a financiamiento -82.7% de los negocios empiezan con capital propio, de familiares y amigos- y por otra no cuentan con el conocimiento y personal idóneo en ciertas áreas especializadas:
+Latin America is a multilingual region with hundreds of indigenous languages that are still spoken. Around 40 million people in the region speak an indigenous language, and for many this is their mother tongue, however these are underrepresented on the Internet (Spanish is one of them). 
 
-"El segundo factor más importante para el fracaso es la mala organización dentro de la empresa. La inexperiencia cuesta cara. Los problemas de ejecución ocupan el primer lugar (17.1%), seguida de una planeación deficiente (14.77%) y después la falta de indicadores que guíen la estrategia de las empresas (14.5%)." [Instituto del Fracaso](http://thefailureinstitute.com/colombia-research/).
+There is an overwhelming need to promote online content and services in indigenous languages as part of digital inclusion policies in the region.
 
-## Pertinencia
+Despite the efforts made by some governments and NGO’s  the rate of adoption and usage in rural areas is not the same as in urban areas. Besides infrastructure there is a huge gap in the education system. There is no training in topics such as information, communication, content creation, online privacy and security..
+ 
+At present time in Latin America there is a digital activism movement in which indigenous languages are promoted and used as a way to resist the disappearance of languages and cultures, we have for the case the network of digital activists of Indigenous Languages. The Internet could be a place where we preserve and teach these languages and continue to share the culture. 
 
-Existe un capital de conocimiento muy amplio de expertos de distintas disciplinas en el mundo (individuos y organizaciones), que están dispuestos a compartirlo con estos empresarios, pero no encuentran suficientes medios para hacerlo.  
+![Imgur](http://i.imgur.com/dZDHkBA.jpg)
 
-Este proyecto busca aterrizar estas buenas intenciones y articular esfuerzos interinstitucionales, aprendiendo de los principios de la cultura del "Working Open". Si bien este no es un proyecto específico de desarrollo de tecnología, la usa como plataforma para activar la colaboración y el trabajo en red en un sector que se ha mantenido un tanto al margen de la cultura "Open".   
+From the experience with many activists, discussions and meetings, it can be concluded that it is definitely necessary to promote a culture of learning and collaboration also in the network. 
 
-Tradicionalmente el sector privado se ha caracterizado por niveles bajos de cooperación, y por la priorización de prácticas cerradas, desconociendo que un ecosistema industrial fuerte redunda en beneficios para todo el sistema y esto se logra precisamente potenciando los mecanismos de colaboración. 
+Education is the key to support different initiatives that are being developed, to build other spaces for collaboration and creation. In this sense the objective of this proposal is to encourage other forms of organization, other spaces for participation, learning and cooperation.
+ 
+This proposal aims to be an introduction to digital literacy [1] for people belonging to indigenous communities. It is about promoting digital literacy through a proposal conceived from a participatory perspective and inclusion, where the learning, use and participation of the internet are key.
 
-De ahí tenemos mucho que aprender de los proyectos de colaboración abierta, tan arraigados en el mundo del desarrollo de software "Open Source".
+# 2. GOALS
+## Regarding participants
+* Make participants feel valued, respected, with a clear sense of contribution to a larger movement.
+* Generate a space where people can learn basic tools so they can start generating content in their own languages.
+* Consolidate a group of open web leaders who feel empowered to foster the movement within their communities.
 
-## Cómo contribuir
+## Regarding communities
+* Build a sustainable community that promotes digital inclusion.
+* Encourage spaces for communication, discussion and collaboration.
+* Encourage the training of all implicit persons, as a key to better teaching and learning practices.
+* Create social and economic opportunities for new digital users and the community at large 
 
-La principal forma de contribuir a este proyecto, es compartiendo experiencias, casos de éxito, herramientas, tecnologías de bajo (o cero) costo y buenas prácticas que puedan ser adaptadas por emprendedores, pequeñas y medianas empresas. 
+## Regarding The Open Web Movement - Mozilla
+* To advance processes of web literacy and digital inclusion within aboriginal communities in Latin America, which are underrepresented and excluded by their own governments. 
+* Understand steps to creating a healthier internet locally in Colombia that is shared and open
+* Receive ideas to enrich their proposals and strategies.
+* Get some of their tools and content localized into indigenous languages. 
 
-Para entender mejor cómo puedes contribuir [haz click aquí](CONTRIBUIR.md).
+# 3. PARTICIPANTS
+The following proposal has been designed as a pilot to be launched in Mexico and Colombia. 
 
-__________________________________________________________
+In Mexico according to Ethnologue, 289 languages are spoken, 281 are indigenous languages and 4 are non-indigenous languages. All the indigenous languages spoken in the country are in different degrees of threat, so the majority-speaking languages displace the others. The Internet is a potential tool to balance this situation in addition to giving other social status to languages. In the future, it is hoped to consolidate groups for speakers of indigenous languages in different Latin American countries (in most countries indigenous communities are present) such as Colombia, Peru, Ecuador, Guatemala and Brazil.
 
-# Toolkit for entrepreneurs
+The pilot project will be developed in Oaxaca-Mexico, Guatemala -Guatemala, Leticia-Colombia, Quito-Ecuador and Cuzco-Perú. 
 
-## Objective
+According to focus groups, participants will have different ages, levels of study and also experience in the use of technological tools. We will have four other nodes
 
-This project aims to provide a platform and a methodology to share experiences, knowledge and tools of high impact and low cost, with entrepreneurs, small and medium-sized industries in developing countries such as Colombia.
-
-We seek to collect contributions from experts and amateurs, from different disciplines, around world. This information will be systematized and shared in an open- collaborative platform which will be defined as part of this project.
-
-## Justification
-
-Entrepreneurs, small and medium-sized enterprises generally have limited resources in terms of time, budget and human talent, and therefore have a competitive disadvantage vis-à-vis large companies.
-
-In Colombia only 25% of the ventures survive more than four years. This is for several reasons. On the one hand, they have very little access to financing - 82.7% of businesses start with their own capital - on the other hand, they do not have the knowledge and suitable staff in certain specialized areas:
-
-"Execution problems rank first (17.1%), followed by poor planning (14.77%), and then lack of quality." The second most important factor for failure is poor organization within the company. Indicators that guide the strategy of companies (14.5%)." [The Failure Institute](http://thefailureinstitute.com/colombia-research/).
-
-## Relevance
-
-There is a very wide knowledge network of experts from different disciplines in the world (individuals and organizations), who are willing to share their knowledge with these entrepreneurs, but do not find enough means to do so.
-
-This project seeks to land these good intentions and articulate interinstitutional efforts, learning from the principles of the "Working Open culture”. While this is not a specific software development project, it uses technology as a platform to fuel collaboration and networking in a sector that has remained somewhat outside the "Open culture”.
-
-Traditionally, the private sector has been characterized by low levels of cooperation, it  privileges closed practices, ignoring that a strong industrial ecosystem results in benefits for the entire system, and this is achieved, precisely, by enhancing the mechanisms of collaboration.
-
-We know we have a lot to learn from the open collaboration movement, rooted in the world of  "Open Source".
-
-## How to contribute
-
-The main way to contribute to this project is to share experiences, success stories, tools, low (or zero) cost technologies and good practices that can be adapted by entrepreneurs, small and medium enterprises.
-
-To better understand how you can contribute [click here](CONTRIBUIR.md).
-
+There has been some interaction with these communities in which they have expressed their interest in having spaces for learning and building the digital world. Likewise, some of the meetings will be face-to-face but there will be also spaces for digital interaction through tools such as Telegram, mailing lists and videoconferences.
