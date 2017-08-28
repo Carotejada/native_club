@@ -2,7 +2,6 @@
 
 ![Imgur](http://i.imgur.com/IWabLmF.jpg)
 
-## The web can speak in indigenous languages!
 
 # 1. DESCRIPTION
 The Internet has revolutionized the world generating a significant change in the way people communicate, create, interact. 
