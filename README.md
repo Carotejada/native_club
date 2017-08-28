@@ -59,3 +59,13 @@ The pilot project will be developed in Oaxaca-Mexico, Guatemala -Guatemala, Leti
 According to focus groups, participants will have different ages, levels of study and also experience in the use of technological tools. We will have four other nodes
 
 There has been some interaction with these communities in which they have expressed their interest in having spaces for learning and building the digital world. Likewise, some of the meetings will be face-to-face but there will be also spaces for digital interaction through tools such as Telegram, mailing lists and videoconferences.
+
+Alliances:
+* Local schools
+* Co-workers
+* Local organizations
+* Experts
+* Learners
+* Online
+ 
+
