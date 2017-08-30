@@ -1,20 +1,20 @@
 # MODULES
 
-MODULE 1: Basics of Internet
+## MODULE 1: Basics of Internet
 Objective: What its and how it works
-MODULE 2: navigate and web browsing
+## MODULE 2: navigate and web browsing
 Objective: Use the web browser, understand web browsing and manage browser settings, bookmarks, and web outputs.
-MODULE 3:   Topic: Web Content
+## MODULE 3:   Topic: Web Content
 Objective: Use and understand different tools to develop content: images, infographics, video, news, playlist, podcast.
-MODULE 4:   Topic: security and Well-Being
+## MODULE 4:   Topic: security and Well-Being
 Objective: Understanding web security and protection concepts.
-MODULE 5:   Topic: communication concepts
+## MODULE 5:   Topic: communication concepts
 Objective: Understand concepts of online communities, share, contribute and open practice.
-MODULE 6:   Topic: online collaboration
+## MODULE 6:   Topic: online collaboration
 Objective: Understand collaborative networks, web meetings, learning environments and how new networks can be established for community work.
-MODULE 7:  Topic: How do I benefit from the Internet?
+## MODULE 7:  Topic: How do I benefit from the Internet?
 Objective: lesson about the ways Internet can help strengthen communities, raise awareness on certain social issues. 
-MODULE 8: Final project
+## MODULE 8: Final project
 Objective: Do something with what has been learned throughout the club
 
 # METHODOLOGY
