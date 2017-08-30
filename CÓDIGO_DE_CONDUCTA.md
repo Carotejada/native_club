@@ -20,7 +20,7 @@ El Proyecto Mozilla da la bienvenida y alienta la participación de todos. No im
 
 Damos la bienvenida a las contribuciones de todos, siempre y cuando interactúen de manera constructiva con nuestra comunidad, incluyendo, pero no limitado a personas de edad, cultura, etnia, género, identidad de género, idioma, raza, orientación sexual, ubicación geográfica y puntos de vista religiosos.
 
-Las actividades articuladas conn Mozilla deben ser inclusivas y deben apoyar tal diversidad.
+Las actividades articuladas con Mozilla deben ser inclusivas y deben apoyar tal diversidad.
 
 
 <!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
